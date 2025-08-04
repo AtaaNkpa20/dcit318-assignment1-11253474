@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.exe
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.deps.json
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.dll
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.pdb
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.sourcelink.json
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.dll
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\obj\Debug\net9.0\refint\TriangleTypeIdentifier.dll
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.pdb
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\HP\Desktop\dcit318-assignment1-11253474\TriangleTypeIdentifier\obj\Debug\net9.0\ref\TriangleTypeIdentifier.dll
